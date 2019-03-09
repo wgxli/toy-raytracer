@@ -6,6 +6,7 @@ Toy raytracer I wrote in C++ back in 2015.
 ## Features
 * Accurate treatment of reflective, refractive, and diffuse surfaces, including Fresnel interactions.
 * Depth of field
+* Adaptive sampling (samples increased on noisy pixels)
 * Probably some more things that I forgot about since 2015
 
 ## Requirements
