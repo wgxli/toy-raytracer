@@ -1,7 +1,7 @@
-# toy-raytracer
+# Toy Raytracer
 Toy raytracer I wrote in C++ back in 2015.
 
-![Sample output.](https://raw.githubusercontent.com/wgxli/toy-raytracer/master/output.png)
+![Sample output image.](https://raw.githubusercontent.com/wgxli/toy-raytracer/master/output.png)
 
 ## Features
 * Accurate treatment of reflective, refractive, and diffuse surfaces, including Fresnel interactions.
